@@ -1,0 +1,21 @@
+{
+
+    "profile": {
+        "rol": "Desarrollador Web Full Stack",
+        "description": "Hola bienvenido a mi portafolio..."
+    },
+    "experience": {
+        "first-job-title": "Desarrollador web en ....",
+        "first-job-dates": "Desarrollador web en ....",
+        "first-job-description": "Desarrollador web en ....",
+
+        "second-job-title": "Desarrollador web en ....",
+        "second-job-dates": "Desarrollador web en ....",
+        "second-job-description": "Desarrollador web en ...."
+    },
+    "projects": {
+        "first-project-title": "Landing Page",
+        "first-project-dates": "Landing Page",
+        "first-project-description": "Landing Page"
+    }
+}
