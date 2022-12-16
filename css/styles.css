@@ -43,6 +43,7 @@ body.ligth {
   padding: 0 1.5em;
   background-color: var(--bg-card-color);
   transition: var(--transition);
+  max-width: 100%;
 }
 
 .switches {
@@ -138,12 +139,21 @@ body.ligth {
   background-color: var(--bg-card-color);
   border-radius: var(--border-radius);
 }
+@media screen and (max-width: 760px) {
+  .card {
+    width: 380px;
+  }
+}
 .card__image-container {
   min-width: 320px;
   border-radius: var(--border-radius);
   overflow: hidden;
 }
-
+@media screen and (max-width: 760px) {
+  .foto {
+    width: 350px;
+  }
+}
 .card__header {
   padding: 1em 0;
 }
