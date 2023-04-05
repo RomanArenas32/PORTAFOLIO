@@ -396,3 +396,20 @@ body.ligth {
   place-content: center;
   animation: b 9s infinite;
 }
+.icon-hab{
+  width: 40px;
+  height: 40px;
+}
+.fwhite{
+  background-color: white;
+  border-radius: 0.6rem;
+}
+.icon-hab:hover{
+  cursor: pointer;
+}
+
+.iconos-dev{
+  display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+gap: 1.6rem;
+}
