@@ -488,3 +488,27 @@ body.ligth {
   grid-template-columns: 1fr 1fr 1fr 1fr;
   gap: 1.6rem;
 }
+
+p {
+  text-align: justify;
+}
+
+.educacion {
+  display: flex;
+  flex-direction: row;
+  gap: 0.7rem;
+  padding-top: 1rem;
+}
+
+.icono-educacion {
+  width: 50px;
+  height: 30px;
+
+}
+.icono__ed-png{
+  display: grid;
+  place-items: center;
+}
+.icono__ed-png:hover{
+  cursor: pointer;
+}
