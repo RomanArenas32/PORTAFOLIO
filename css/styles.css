@@ -512,3 +512,9 @@ p {
 .icono__ed-png:hover{
   cursor: pointer;
 }
+
+.principal{
+  font-size: 30px;
+  text-align: center;
+  margin: 1rem;
+}
